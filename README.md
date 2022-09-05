@@ -1,1 +1,1 @@
-# rock-paper-scissors
+making a rock  paper scissors app in the console using java script.
